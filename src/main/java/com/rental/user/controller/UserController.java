@@ -10,6 +10,8 @@ import org.springframework.web.bind.annotation.*;
 @RequiredArgsConstructor
 public class UserController {
 
+    // adding comment
+
     private final UserService userService;
 
     // Get user by phone
